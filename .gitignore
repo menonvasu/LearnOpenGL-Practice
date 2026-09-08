@@ -1,0 +1,20 @@
+# Visual Studio / Build outputs
+.vs/
+x64/
+x86/
+Debug/
+Release/
+out/
+build/
+
+# Executables & intermediate build files
+*.exe
+*.obj
+*.o
+*.pdb
+*.user
+*.ipch
+
+# System files
+.DS_Store
+Thumbs.db

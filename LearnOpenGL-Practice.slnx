@@ -8,4 +8,5 @@
   </Folder>
   <Project Path="01_House/01_House.vcxproj" Id="2876e9a5-f6b7-4038-937e-196f395fda23" />
   <Project Path="02_Shaders/02_Shaders.vcxproj" Id="ddc2f7ee-8f45-4be7-88ff-7b05c0ef016e" />
+  <Project Path="03_Textures/03_Textures.vcxproj" Id="32d1e082-65e7-4ba4-94dc-649a124a5324" />
 </Solution>
